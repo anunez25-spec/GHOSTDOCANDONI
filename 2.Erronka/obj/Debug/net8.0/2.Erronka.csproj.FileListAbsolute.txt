@@ -1,0 +1,96 @@
+C:\Users\aimar\Desktop\Fp\Erronka 2\2.Erronka\2.Erronka\bin\Debug\net8.0\2.Erronka.exe
+C:\Users\aimar\Desktop\Fp\Erronka 2\2.Erronka\2.Erronka\bin\Debug\net8.0\2.Erronka.deps.json
+C:\Users\aimar\Desktop\Fp\Erronka 2\2.Erronka\2.Erronka\bin\Debug\net8.0\2.Erronka.runtimeconfig.json
+C:\Users\aimar\Desktop\Fp\Erronka 2\2.Erronka\2.Erronka\bin\Debug\net8.0\2.Erronka.dll
+C:\Users\aimar\Desktop\Fp\Erronka 2\2.Erronka\2.Erronka\bin\Debug\net8.0\2.Erronka.pdb
+C:\Users\aimar\Desktop\Fp\Erronka 2\2.Erronka\2.Erronka\obj\Debug\net8.0\2.Erronka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aimar\Desktop\Fp\Erronka 2\2.Erronka\2.Erronka\obj\Debug\net8.0\2.Erronka.AssemblyInfoInputs.cache
+C:\Users\aimar\Desktop\Fp\Erronka 2\2.Erronka\2.Erronka\obj\Debug\net8.0\2.Erronka.AssemblyInfo.cs
+C:\Users\aimar\Desktop\Fp\Erronka 2\2.Erronka\2.Erronka\obj\Debug\net8.0\2.Erronka.csproj.CoreCompileInputs.cache
+C:\Users\aimar\Desktop\Fp\Erronka 2\2.Erronka\2.Erronka\obj\Debug\net8.0\2.Erronka.dll
+C:\Users\aimar\Desktop\Fp\Erronka 2\2.Erronka\2.Erronka\obj\Debug\net8.0\refint\2.Erronka.dll
+C:\Users\aimar\Desktop\Fp\Erronka 2\2.Erronka\2.Erronka\obj\Debug\net8.0\2.Erronka.pdb
+C:\Users\aimar\Desktop\Fp\Erronka 2\2.Erronka\2.Erronka\obj\Debug\net8.0\2.Erronka.genruntimeconfig.cache
+C:\Users\aimar\Desktop\Fp\Erronka 2\2.Erronka\2.Erronka\obj\Debug\net8.0\ref\2.Erronka.dll
+C:\Users\aimar\Desktop\Fp\Erronka 2\2.Erronka\2.Erronka\obj\Debug\net8.0\Interop.Microsoft.Office.Interop.Outlook.dll
+C:\Users\aimar\Desktop\Fp\Erronka 2\2.Erronka\2.Erronka\obj\Debug\net8.0\2.Erronka.csproj.ResolveComReference.cache
+C:\Users\aimar\Desktop\Fp\Erronka 2\2.Erronka\2.Erronka\bin\Debug\net8.0\ClosedXML.dll
+C:\Users\aimar\Desktop\Fp\Erronka 2\2.Erronka\2.Erronka\bin\Debug\net8.0\ClosedXML.Parser.dll
+C:\Users\aimar\Desktop\Fp\Erronka 2\2.Erronka\2.Erronka\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+C:\Users\aimar\Desktop\Fp\Erronka 2\2.Erronka\2.Erronka\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+C:\Users\aimar\Desktop\Fp\Erronka 2\2.Erronka\2.Erronka\bin\Debug\net8.0\ExcelNumberFormat.dll
+C:\Users\aimar\Desktop\Fp\Erronka 2\2.Erronka\2.Erronka\bin\Debug\net8.0\RBush.dll
+C:\Users\aimar\Desktop\Fp\Erronka 2\2.Erronka\2.Erronka\bin\Debug\net8.0\SixLabors.Fonts.dll
+C:\Users\aimar\Desktop\Fp\Erronka 2\2.Erronka\2.Erronka\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\Users\aimar\Desktop\Fp\Erronka 2\2.Erronka\2.Erronka\obj\Debug\net8.0\2.Erronka.csproj.AssemblyReference.cache
+C:\Users\aimar\Desktop\Fp\Erronka 2\2.Erronka\2.Erronka\obj\Debug\net8.0\2.Erronka.csproj.Up2Date
+C:\Users\aimar\Desktop\Fp\Erronka 2\2.Erronka\2.Erronka\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\aimar\Desktop\Fp\Erronka 2\2.Erronka\2.Erronka\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\aimar\Desktop\Fp\Erronka 2\2.Erronka\2.Erronka\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\aimar\Desktop\Fp\Erronka 2\2.Erronka\2.Erronka\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\aimar\Desktop\Fp\Erronka 2\2.Erronka\2.Erronka\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\aimar\Desktop\Fp\Erronka 2\2.Erronka\2.Erronka\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\aimar\Desktop\Fp\Erronka 2\2.Erronka\2.Erronka\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aimar\Desktop\Fp\Erronka 2\2.Erronka\2.Erronka\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\aimar\Desktop\Fp\Erronka 2\2.Erronka\2.Erronka\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\aimar\Desktop\Fp\Erronka 2\2.Erronka\2.Erronka\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aimar\Desktop\Fp\Erronka 2\2.Erronka\2.Erronka\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\aimar\Desktop\Fp\Erronka 2\2.Erronka\2.Erronka\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\aimar\Desktop\Fp\Erronka 2\2.Erronka\2.Erronka\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\aimar\Desktop\Fp\Erronka 2\2.Erronka\2.Erronka\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\aimar\Desktop\Fp\Erronka 2\2.Erronka\2.Erronka\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\aimar\Desktop\Fp\Erronka 2\2.Erronka\2.Erronka\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\aimar\Desktop\Fp\Erronka 2\2.Erronka\2.Erronka\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\aimar\Desktop\Fp\Erronka 2\2.Erronka\2.Erronka\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\aimar\Desktop\Fp\Erronka 2\2.Erronka\2.Erronka\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\aimar\Desktop\Fp\Erronka 2\2.Erronka\2.Erronka\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\aimar\Desktop\Fp\Erronka 2\2.Erronka\2.Erronka\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\aimar\Desktop\Fp\Erronka 2\2.Erronka\2.Erronka\bin\Debug\net8.0\Spectre.Console.dll
+\\MSIDEANDONI\CentralTicketBAI\2.Erronka\2.Erronka\bin\Debug\net8.0\2.Erronka.exe
+\\MSIDEANDONI\CentralTicketBAI\2.Erronka\2.Erronka\bin\Debug\net8.0\2.Erronka.deps.json
+\\MSIDEANDONI\CentralTicketBAI\2.Erronka\2.Erronka\bin\Debug\net8.0\2.Erronka.runtimeconfig.json
+\\MSIDEANDONI\CentralTicketBAI\2.Erronka\2.Erronka\bin\Debug\net8.0\2.Erronka.dll
+\\MSIDEANDONI\CentralTicketBAI\2.Erronka\2.Erronka\bin\Debug\net8.0\2.Erronka.pdb
+\\MSIDEANDONI\CentralTicketBAI\2.Erronka\2.Erronka\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+\\MSIDEANDONI\CentralTicketBAI\2.Erronka\2.Erronka\bin\Debug\net8.0\ClosedXML.dll
+\\MSIDEANDONI\CentralTicketBAI\2.Erronka\2.Erronka\bin\Debug\net8.0\ClosedXML.Parser.dll
+\\MSIDEANDONI\CentralTicketBAI\2.Erronka\2.Erronka\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+\\MSIDEANDONI\CentralTicketBAI\2.Erronka\2.Erronka\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+\\MSIDEANDONI\CentralTicketBAI\2.Erronka\2.Erronka\bin\Debug\net8.0\ExcelNumberFormat.dll
+\\MSIDEANDONI\CentralTicketBAI\2.Erronka\2.Erronka\bin\Debug\net8.0\Google.Protobuf.dll
+\\MSIDEANDONI\CentralTicketBAI\2.Erronka\2.Erronka\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+\\MSIDEANDONI\CentralTicketBAI\2.Erronka\2.Erronka\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+\\MSIDEANDONI\CentralTicketBAI\2.Erronka\2.Erronka\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+\\MSIDEANDONI\CentralTicketBAI\2.Erronka\2.Erronka\bin\Debug\net8.0\MySql.Data.dll
+\\MSIDEANDONI\CentralTicketBAI\2.Erronka\2.Erronka\bin\Debug\net8.0\RBush.dll
+\\MSIDEANDONI\CentralTicketBAI\2.Erronka\2.Erronka\bin\Debug\net8.0\SixLabors.Fonts.dll
+\\MSIDEANDONI\CentralTicketBAI\2.Erronka\2.Erronka\bin\Debug\net8.0\Spectre.Console.dll
+\\MSIDEANDONI\CentralTicketBAI\2.Erronka\2.Erronka\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+\\MSIDEANDONI\CentralTicketBAI\2.Erronka\2.Erronka\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+\\MSIDEANDONI\CentralTicketBAI\2.Erronka\2.Erronka\bin\Debug\net8.0\System.IO.Packaging.dll
+\\MSIDEANDONI\CentralTicketBAI\2.Erronka\2.Erronka\bin\Debug\net8.0\System.IO.Pipelines.dll
+\\MSIDEANDONI\CentralTicketBAI\2.Erronka\2.Erronka\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+\\MSIDEANDONI\CentralTicketBAI\2.Erronka\2.Erronka\bin\Debug\net8.0\System.Security.Permissions.dll
+\\MSIDEANDONI\CentralTicketBAI\2.Erronka\2.Erronka\bin\Debug\net8.0\System.Windows.Extensions.dll
+\\MSIDEANDONI\CentralTicketBAI\2.Erronka\2.Erronka\bin\Debug\net8.0\ZstdSharp.dll
+\\MSIDEANDONI\CentralTicketBAI\2.Erronka\2.Erronka\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+\\MSIDEANDONI\CentralTicketBAI\2.Erronka\2.Erronka\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+\\MSIDEANDONI\CentralTicketBAI\2.Erronka\2.Erronka\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+\\MSIDEANDONI\CentralTicketBAI\2.Erronka\2.Erronka\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+\\MSIDEANDONI\CentralTicketBAI\2.Erronka\2.Erronka\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+\\MSIDEANDONI\CentralTicketBAI\2.Erronka\2.Erronka\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+\\MSIDEANDONI\CentralTicketBAI\2.Erronka\2.Erronka\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+\\MSIDEANDONI\CentralTicketBAI\2.Erronka\2.Erronka\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+\\MSIDEANDONI\CentralTicketBAI\2.Erronka\2.Erronka\obj\Debug\net8.0\2.Erronka.csproj.AssemblyReference.cache
+\\MSIDEANDONI\CentralTicketBAI\2.Erronka\2.Erronka\obj\Debug\net8.0\Interop.Microsoft.Office.Interop.Outlook.dll
+\\MSIDEANDONI\CentralTicketBAI\2.Erronka\2.Erronka\obj\Debug\net8.0\2.Erronka.csproj.ResolveComReference.cache
+\\MSIDEANDONI\CentralTicketBAI\2.Erronka\2.Erronka\obj\Debug\net8.0\2.Erronka.GeneratedMSBuildEditorConfig.editorconfig
+\\MSIDEANDONI\CentralTicketBAI\2.Erronka\2.Erronka\obj\Debug\net8.0\2.Erronka.AssemblyInfoInputs.cache
+\\MSIDEANDONI\CentralTicketBAI\2.Erronka\2.Erronka\obj\Debug\net8.0\2.Erronka.AssemblyInfo.cs
+\\MSIDEANDONI\CentralTicketBAI\2.Erronka\2.Erronka\obj\Debug\net8.0\2.Erronka.csproj.CoreCompileInputs.cache
+\\MSIDEANDONI\CentralTicketBAI\2.Erronka\2.Erronka\obj\Debug\net8.0\2.Erronka.csproj.Up2Date
+\\MSIDEANDONI\CentralTicketBAI\2.Erronka\2.Erronka\obj\Debug\net8.0\2.Erronka.dll
+\\MSIDEANDONI\CentralTicketBAI\2.Erronka\2.Erronka\obj\Debug\net8.0\refint\2.Erronka.dll
+\\MSIDEANDONI\CentralTicketBAI\2.Erronka\2.Erronka\obj\Debug\net8.0\2.Erronka.pdb
+\\MSIDEANDONI\CentralTicketBAI\2.Erronka\2.Erronka\obj\Debug\net8.0\2.Erronka.genruntimeconfig.cache
+\\MSIDEANDONI\CentralTicketBAI\2.Erronka\2.Erronka\obj\Debug\net8.0\ref\2.Erronka.dll
